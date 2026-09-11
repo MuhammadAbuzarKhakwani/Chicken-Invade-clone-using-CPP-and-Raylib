@@ -29,13 +29,11 @@ A classic arcade-style **Space Invaders** clone built with [raylib](https://www.
 
 > Place the real screenshots of the UI in `docs/screenshots/` using the file names below, and they will appear here automatically. Delete this note once they're added.
 
-| Gameplay | Double-shot power-up | Game over |
-|----------|----------------------|-----------|
-| ![Gameplay](docs/screenshots/gameplay.png) | ![Double-shot power-up](docs/screenshots/powerup_double_shot.png) | ![Game over](docs/screenshots/game_over.png) |
+| Gameplay | Game over |
+|----------|-----------|
+| ![Gameplay](docs/screenshots/gameplay.png) | ![Game over](docs/screenshots/game_over.png) |
 
-| Game start | During play |
-|------------|-------------|
-| ![Game start](docs/screenshots/game_start.png) | ![During play](docs/screenshots/during_play.png) |
+
 
 ---
 
