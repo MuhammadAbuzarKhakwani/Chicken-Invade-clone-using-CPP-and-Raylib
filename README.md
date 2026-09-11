@@ -6,7 +6,7 @@ A classic arcade-style **Space Invaders** clone built with [raylib](https://www.
 
 ---
 
-## 🎮 Features
+##  Features
 
 - **5×10 enemy formation** (50 invaders) that marches side to side and descends as it hits the screen edge
 - **Player ship** with 3 lives, smooth left/right movement and rapid-fire projectiles
@@ -17,7 +17,7 @@ A classic arcade-style **Space Invaders** clone built with [raylib](https://www.
 - **High-stakes game over** — with a shiny outlined "GAME OVER" screen and instant restart
 - Built for **60 FPS** at **1080×720**
 
-## 🕹️ Controls
+##  Controls
 
 | Key | Action |
 |-----|--------|
@@ -25,7 +25,7 @@ A classic arcade-style **Space Invaders** clone built with [raylib](https://www.
 | `Space` | Fire a projectile |
 | `Enter` | Restart after game over |
 
-## 📸 Screenshots
+##  Screenshots
 
 > Place the real screenshots of the UI in `docs/screenshots/` using the file names below, and they will appear here automatically. Delete this note once they're added.
 
@@ -37,7 +37,7 @@ A classic arcade-style **Space Invaders** clone built with [raylib](https://www.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -75,7 +75,7 @@ g++ main.cpp -o SpaceInvaders.exe \
 
 ---
 
-## 🎯 How to Play
+##  How to Play
 
 1. **Survive** — move left/right with the arrow keys and destroy the invaders before they overrun you.
 2. **Score** — +10 points per invader destroyed; +50 points for collecting the double-shot power-up.
@@ -83,7 +83,7 @@ g++ main.cpp -o SpaceInvaders.exe \
 4. **Stay alive** — you have **3 lives**. One hit from enemy fire costs a life; reach zero and it's game over.
 5. **Victory** — clear all enemies to win. Press `Enter` to restart at any time after a game over.
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 mygame/
