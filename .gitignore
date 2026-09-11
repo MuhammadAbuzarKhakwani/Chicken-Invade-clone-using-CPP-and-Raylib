@@ -1,0 +1,19 @@
+# Build output
+SpaceInvaders.exe
+*.exe
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# C++ build artifacts
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.log
+
+# VS Code
+CppProperties.json
