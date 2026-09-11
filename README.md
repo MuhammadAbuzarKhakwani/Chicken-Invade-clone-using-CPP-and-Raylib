@@ -113,4 +113,4 @@ Add your preferred license here (e.g. *MIT License*). See `LICENSE` for details 
 
 ---
 
-*Enjoy the game — protect the galaxy! 🚀👾*"# Chicken-Invade-clone-using-CPP-and-Raylib" 
+*Enjoy the game — protect the galaxy! *"# Chicken-Invade-clone-using-CPP-and-Raylib" 
