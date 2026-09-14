@@ -102,12 +102,12 @@ mygame/
     └── screenshots/        # UI screenshots (see Screenshots section)
 ```
 
-## 🛠️ Built With
+##  Built With
 
 - [raylib](https://www.raylib.com/) 4.5 — a simple and easy-to-use C/C++ game library
 - C++17
 
-## 📄 License
+##  License
 
 Add your preferred license here (e.g. *MIT License*). See `LICENSE` for details once added.
 
